@@ -5,5 +5,5 @@
 - MATLAB 2018a
 
 ## About the project
-- The proposed idea of smart parking system based on Image processing was im-plemented and tested on a sample video.
+- The proposed idea of smart parking system based on Image processing was implemented and tested on a sample video.
 - The results are shown in the results folder.
